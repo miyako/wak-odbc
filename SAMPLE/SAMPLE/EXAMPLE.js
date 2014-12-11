@@ -1,0 +1,1 @@
+﻿var modulesFolder = FileSystemSync('Modules');var odbc = require(modulesFolder.path + "odbc");odbc.sql('-b');
