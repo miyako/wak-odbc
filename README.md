@@ -9,7 +9,7 @@ System worker binding to call the [unixODBC](http://www.unixodbc.org) library. T
 
 Install
 -------
-Please read [install](install.md).
+Please read [install](https://github.com/miyako/wak-ftp/blob/master/install.md).
 
 Example
 -------
